@@ -1,2 +1,2 @@
 # Udacity-MLND-P3
-The file customer_segments.ipynb is based on the completion of the project of the Machine Learning Engineer Nanodegree Program for unsupervised learning **Creating Customer Segments**.
+The file customer_segments.ipynb is based on the completion of the unsupervised learning project of the Machine Learning Engineer Nanodegree Program **Creating Customer Segments**.
